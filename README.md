@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/Hanhan758">GitHub</a> ·
   <a href="https://github.com/Hanhan758/talos-framework">TALOS Framework</a> ·
-  <a href="https://github.com/Hanhan758/talos-framework/tree/main/template/minimal-talos">基础模板</a>
+  <a href="https://github.com/WAINAO-Haaper/talos-plugin">TALOS 插件</a>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 | 项目 | 我在做什么 | 类型 / 状态 |
 | :--- | :--- | :--- |
 | **[TALOS Framework](https://github.com/Hanhan758/talos-framework)** | 整理与大模型协作的公开框架，提供论文、基础模板与官网源码，让资料和目标有组织地进入工作。 | 方法框架 · v0.5 已发布 |
-| **[TALOS 插件](https://github.com/Hanhan758/talos-framework#首版产品方向)** | 以 Obsidian 为起点，将资料管理、任务推进与学习引导融入工作，配套规范、模板与场景方案包。 | Obsidian 插件 · 首版建设与验证中 |
+| **[TALOS 插件](https://github.com/WAINAO-Haaper/talos-plugin)** | 把 Obsidian 知识库变成个人 AI 工作台，汇总项目与任务，集成多智能体对话、审批治理和实时语音。 | Obsidian 插件 · 源码开放，持续迭代 |
 
 想从一个具体入口开始？可以阅读 **[v0.5 中文框架](https://github.com/Hanhan758/talos-framework/blob/main/whitepaper/TALOS_Manifesto_v0.5.md)**，或从 **[基础模板](https://github.com/Hanhan758/talos-framework/tree/main/template/minimal-talos)** 了解如何组织自己的上下文。
 
