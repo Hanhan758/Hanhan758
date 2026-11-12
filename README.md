@@ -1,62 +1,29 @@
 <h1 align="center">👋 你好，我是外脑玩家（Haaper）</h1>
 
-<p align="center">
-  <strong>TALOS 创作者 · AI 工作流探索者 · 个人知识与数据管理工具构建者</strong>
-</p>
+<p align="center"><strong>TALOS 创作者 · 个人知识管理与 AI 工作流</strong></p>
 
-<p align="center">从自己的资料出发，把大模型用进真实工作，让想法逐步成为可用的成果。</p>
+我做 TALOS 时，关心两个具体的问题：写方案时，能不能找回当初记下的原文？隔一段时间重开项目，能不能让 AI 接着上次的决定往下做？我用 Obsidian 和 Markdown 整理资料，再把实际用得上的方法做成模板和工具。
 
-<p align="center">
-  <a href="https://github.com/Hanhan758">GitHub</a> ·
-  <a href="https://github.com/Hanhan758/talos-framework">TALOS Framework</a> ·
-  <a href="https://github.com/WAINAO-Haaper/talos-plugin">TALOS 插件</a>
-</p>
-
----
-
-## 关于我 / About
-
-我关注个人知识与数据如何进入真实工作，也在探索怎样让大模型理解上下文、接续项目，并帮助人把事情做完。
-
-- **正在构建：** TALOS，围绕数据管理、学习路径与大模型协作的方法和工具。
-- **关注方向：** 个人知识管理、上下文组织、AI 工作流与 Obsidian 生态。
-- **工作方式：** 从自己的真实需求出发，整理方法、制作原型，再通过实际使用持续打磨。
-- **在意的事：** 资料有来源，项目能接续，成果可检查，关键决定由人掌握。
-
-> I’m building TALOS to help people organize their own knowledge and data, work with language models, and turn information and goals into useful results.
+> I build TALOS to help people find the sources behind their notes and pick up work with AI where they left off.
 
 ## 精选项目 / Selected projects
 
-| 项目 | 我在做什么 | 类型 / 状态 |
-| :--- | :--- | :--- |
-| **[TALOS Framework](https://github.com/Hanhan758/talos-framework)** | 整理与大模型协作的公开框架，提供论文、基础模板与官网源码，让资料和目标有组织地进入工作。 | 方法框架 · v0.5 已发布 |
-| **[TALOS 插件](https://github.com/WAINAO-Haaper/talos-plugin)** | 把 Obsidian 知识库变成个人 AI 工作台，汇总项目与任务，集成多智能体对话、审批治理和实时语音。 | Obsidian 插件 · 源码开放，持续迭代 |
+### TALOS 超级大脑 · 在 Mac 上试用资料库
 
-想从一个具体入口开始？可以阅读 **[v0.5 中文框架](https://github.com/Hanhan758/talos-framework/blob/main/whitepaper/TALOS_Manifesto_v0.5.md)**，或从 **[基础模板](https://github.com/Hanhan758/talos-framework/tree/main/template/minimal-talos)** 了解如何组织自己的上下文。
+可以从空白库开始，也可以把已有的 Obsidian 库或 Markdown 文件夹复制到新库。第一次试用，建议先在一篇笔记里写下一个独特的词，更新本地索引，再搜索这个词、点回原文。建库和本地检索都可以在没有模型 API 密钥的情况下使用。
 
-## 我正在做什么 / What I’m building
+目前公开的是 **candidate.22 八插件测试版**。新建、接入和迁移已用测试资料验证，八插件版在 Obsidian 里的界面和新用户从安装到使用的完整流程仍待验证。[安装与首次使用说明](https://github.com/Hanhan758/talos-superbrain-releases) · [测试包与校验文件](https://github.com/Hanhan758/talos-superbrain-releases/releases/tag/v0.4.0-candidate.22-dist.1)
 
-- **把资料变成成果：** 围绕整理、检索与协作撰写，探索有依据、可以使用的报告、方案和内容。
-- **把目标推进到交付：** 让项目保留清晰的目标、进展与决定，便于持续推进和接续工作。
-- **把方法做成工具：** 打磨配套的规范、模板、学习与场景方案包，以及 Obsidian 插件。
+### TALOS for Obsidian · 给已有笔记库加一个工作台
 
-完整软件首版仍在建设与验证，尚未正式发售。公开框架、模板与进展以 [TALOS Framework](https://github.com/Hanhan758/talos-framework) 的版本说明为准。
+在 Obsidian 桌面端查看待整理的资料、项目和任务，也可以从同一个工作台进入 AI 对话和「屈原」语音助手。**v0.4.22** 提供 macOS 和 Windows 安装包，源码按个人非商业许可开放。[插件与界面预览](https://github.com/WAINAO-Haaper/talos-plugin) · [下载安装包](https://github.com/WAINAO-Haaper/talos-plugin/releases/latest)
 
-## 技术与方向 / Toolbox
+### TALOS Framework · 从一份模板了解方法
 
-Obsidian · Markdown · HTML · CSS · JavaScript · Python
+如果想先看看 TALOS 怎样组织上下文，可以打开基础模板，看看个人偏好、当前目标和项目笔记分别放在哪里。v0.5 中文文稿解释了背后的设计，以及哪些决定应当由人来做。[基础模板](https://github.com/Hanhan758/talos-framework/tree/main/template/minimal-talos) · [v0.5 中文文稿](https://github.com/Hanhan758/talos-framework/blob/main/whitepaper/TALOS_Manifesto_v0.5.md) · [框架仓库](https://github.com/Hanhan758/talos-framework)
 
-个人知识管理 · 上下文组织 · AI 工作流 · 产品原型 · 人机协作
+## 技术与交流 / Toolbox & contact
 
-## 欢迎交流 / Let’s connect
+常用工具：Obsidian · Markdown · Python · JavaScript · HTML · CSS
 
-如果你也在探索知识管理、AI 工作流，或怎样把自己的资料变成可用成果，欢迎交流具体的场景、问题和实践。
-
-- **GitHub：** [@Hanhan758](https://github.com/Hanhan758)
-- **项目交流：** [TALOS Framework Issues](https://github.com/Hanhan758/talos-framework/issues)
-- **公众号：** 外脑玩家
-
-<br>
-
-<p align="center"><strong>把资料用起来，把想法做出来。</strong></p>
-<p align="center"><sub>Build with context. Turn ideas into useful work.</sub></p>
+公众号「外脑玩家」。如果你也在用自己的资料和 AI 协作，欢迎带一个具体例子来聊：你当时想找什么、手头有什么资料、在哪一步卡住了？[项目讨论](https://github.com/Hanhan758/talos-framework/issues)
